@@ -1,0 +1,23 @@
+
+# Datheon Data Analytics & Power BI Internship
+# Python dependencies
+
+# Data Analysis
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter Notebook
+jupyter
+notebook
+ipykernel
+
+# Excel File Support
+openpyxl
+
+# Statistical Analysis
+scipy
